@@ -1,6 +1,7 @@
 const quizzes = {
   "py11": {
     "quizId": "py11",
+    "id": "py11",
     "title": "1-1. 四則演算",
     "source": "quiz_py",
     "release": true,
@@ -16,6 +17,7 @@ const quizzes = {
   },
   "py12": {
     "quizId": "py12",
+    "id": "py12",
     "title": "1-2. 変数と画面出力",
     "source": "quiz_py",
     "release": true,
@@ -31,6 +33,7 @@ const quizzes = {
   },
   "py21": {
     "quizId": "py21",
+    "id": "py21",
     "title": "2-1. 条件分岐",
     "source": "quiz_py",
     "release": true,
@@ -46,6 +49,7 @@ const quizzes = {
   },
   "py22a": {
     "quizId": "py22a",
+    "id": "py22a",
     "title": "2-2. 繰り返し（while文）① A基本問題",
     "source": "quiz_py",
     "release": true,
@@ -61,6 +65,7 @@ const quizzes = {
   },
   "py22b": {
     "quizId": "py22b",
+    "id": "py22b",
     "title": "2-2. 繰り返し（while文）① B応用問題",
     "source": "quiz_py",
     "release": true,
@@ -76,6 +81,7 @@ const quizzes = {
   },
   "py23a": {
     "quizId": "py23a",
+    "id": "py23a",
     "title": "2-3. 繰り返し（while文）② A基本問題",
     "source": "quiz_py",
     "release": true,
@@ -91,6 +97,7 @@ const quizzes = {
   },
   "py23b": {
     "quizId": "py23b",
+    "id": "py23b",
     "title": "2-3. 繰り返し（while文）② B応用問題",
     "source": "quiz_py",
     "release": true,
@@ -106,6 +113,7 @@ const quizzes = {
   },
   "py24a": {
     "quizId": "py24a",
+    "id": "py24a",
     "title": "2-4. 繰り返し（for文）① A基本問題",
     "source": "quiz_py",
     "release": true,
@@ -121,6 +129,7 @@ const quizzes = {
   },
   "py24b": {
     "quizId": "py24b",
+    "id": "py24b",
     "title": "2-4. 繰り返し（for文）① B応用問題",
     "source": "quiz_py",
     "release": true,
@@ -136,6 +145,7 @@ const quizzes = {
   },
   "py25a": {
     "quizId": "py25a",
+    "id": "py25a",
     "title": "2-5. 繰り返し（for文）② A基本問題",
     "source": "quiz_py",
     "release": true,
@@ -151,6 +161,7 @@ const quizzes = {
   },
   "py25b": {
     "quizId": "py25b",
+    "id": "py25b",
     "title": "2-5. 繰り返し（for文）② B応用問題",
     "source": "quiz_py",
     "release": true,
@@ -166,6 +177,7 @@ const quizzes = {
   },
   "py31a": {
     "quizId": "py31a",
+    "id": "py31a",
     "title": "3-1. リスト（list） A基本問題",
     "source": "quiz_py",
     "release": true,
@@ -181,6 +193,7 @@ const quizzes = {
   },
   "py31b": {
     "quizId": "py31b",
+    "id": "py31b",
     "title": "3-1. リスト（list） B応用問題",
     "source": "quiz_py",
     "release": true,
@@ -196,6 +209,7 @@ const quizzes = {
   },
   "py32": {
     "quizId": "py32",
+    "id": "py32",
     "title": "3-2. 関数定義（def文）",
     "source": "quiz_py",
     "release": true,
@@ -211,6 +225,7 @@ const quizzes = {
   },
   "ipr01": {
     "quizId": "ipr01",
+    "id": "ipr01",
     "title": "知的財産権と個人情報・プライバシー①",
     "source": "quiz_ipr",
     "release": true,
@@ -226,6 +241,7 @@ const quizzes = {
   },
   "ipr02": {
     "quizId": "ipr02",
+    "id": "ipr02",
     "title": "知的財産権と個人情報・プライバシー②",
     "source": "quiz_ipr",
     "release": true,
@@ -241,6 +257,7 @@ const quizzes = {
   },
   "ipr03": {
     "quizId": "ipr03",
+    "id": "ipr03",
     "title": "知的財産権と個人情報・プライバシー③",
     "source": "quiz_ipr",
     "release": true,
@@ -256,6 +273,7 @@ const quizzes = {
   },
   "lc_test": {
     "quizId": "lc_test",
+    "id": "lc_test",
     "title": "論理回路 テスト",
     "source": "quiz_lc",
     "release": false,
@@ -271,6 +289,7 @@ const quizzes = {
   },
   "lc01": {
     "quizId": "lc01",
+    "id": "lc01",
     "title": "論理回路①",
     "source": "quiz_lc",
     "release": true,
@@ -286,6 +305,7 @@ const quizzes = {
   },
   "lc02": {
     "quizId": "lc02",
+    "id": "lc02",
     "title": "論理回路②",
     "source": "quiz_lc",
     "release": true,
@@ -301,6 +321,7 @@ const quizzes = {
   },
   "lc03": {
     "quizId": "lc03",
+    "id": "lc03",
     "title": "論理回路③",
     "source": "quiz_lc",
     "release": true,
@@ -316,6 +337,7 @@ const quizzes = {
   },
   "lc04": {
     "quizId": "lc04",
+    "id": "lc04",
     "title": "論理回路④",
     "source": "quiz_lc",
     "release": true,
@@ -331,6 +353,7 @@ const quizzes = {
   },
   "lc05": {
     "quizId": "lc05",
+    "id": "lc05",
     "title": "論理回路⑤",
     "source": "quiz_lc",
     "release": true,
@@ -346,6 +369,7 @@ const quizzes = {
   },
   "lc06": {
     "quizId": "lc06",
+    "id": "lc06",
     "title": "論理回路⑥",
     "source": "quiz_lc",
     "release": true,
@@ -361,6 +385,7 @@ const quizzes = {
   },
   "test": {
     "quizId": "test",
+    "id": "test",
     "title": "確認テスト",
     "source": "quiz_test",
     "release": false,
@@ -376,6 +401,7 @@ const quizzes = {
   },
   "l11": {
     "quizId": "l11",
+    "id": "l11",
     "title": "1-1. 情報とメディア",
     "source": "quiz",
     "release": true,
@@ -391,6 +417,7 @@ const quizzes = {
   },
   "l12": {
     "quizId": "l12",
+    "id": "l12",
     "title": "1-2. 知的財産権（産業財産権）",
     "source": "quiz",
     "release": true,
@@ -406,6 +433,7 @@ const quizzes = {
   },
   "l13": {
     "quizId": "l13",
+    "id": "l13",
     "title": "1-3. 知的財産権（著作権）",
     "source": "quiz",
     "release": true,
@@ -421,6 +449,7 @@ const quizzes = {
   },
   "l14": {
     "quizId": "l14",
+    "id": "l14",
     "title": "1-4. 個人情報の保護と管理",
     "source": "quiz",
     "release": true,
@@ -436,6 +465,7 @@ const quizzes = {
   },
   "l15": {
     "quizId": "l15",
+    "id": "l15",
     "title": "1-5. 不正アクセス",
     "source": "quiz",
     "release": true,
@@ -451,6 +481,7 @@ const quizzes = {
   },
   "l16": {
     "quizId": "l16",
+    "id": "l16",
     "title": "1-6. 情報セキュリティ",
     "source": "quiz",
     "release": true,
@@ -466,6 +497,7 @@ const quizzes = {
   },
   "l17": {
     "quizId": "l17",
+    "id": "l17",
     "title": "1-7. 問題解決の方法",
     "source": "quiz",
     "release": true,
@@ -481,6 +513,7 @@ const quizzes = {
   },
   "l18": {
     "quizId": "l18",
+    "id": "l18",
     "title": "1-8. 情報技術の進歩",
     "source": "quiz",
     "release": true,
@@ -496,6 +529,7 @@ const quizzes = {
   },
   "l19": {
     "quizId": "l19",
+    "id": "l19",
     "title": "1-9. 情報技術の進歩による新たな問題",
     "source": "quiz",
     "release": true,
@@ -511,6 +545,7 @@ const quizzes = {
   },
   "l21": {
     "quizId": "l21",
+    "id": "l21",
     "title": "2-1. コミュニケーション",
     "source": "quiz",
     "release": true,
@@ -526,6 +561,7 @@ const quizzes = {
   },
   "l22": {
     "quizId": "l22",
+    "id": "l22",
     "title": "2-2. 情報デザイン",
     "source": "quiz",
     "release": true,
@@ -541,6 +577,7 @@ const quizzes = {
   },
   "l31": {
     "quizId": "l31",
+    "id": "l31",
     "title": "3-1. アナログとデジタル",
     "source": "quiz",
     "release": true,
@@ -556,6 +593,7 @@ const quizzes = {
   },
   "l32": {
     "quizId": "l32",
+    "id": "l32",
     "title": "3-2. 2進法と16進法",
     "source": "quiz",
     "release": true,
@@ -571,6 +609,7 @@ const quizzes = {
   },
   "l33": {
     "quizId": "l33",
+    "id": "l33",
     "title": "3-3. 2進法の足し算・引き算",
     "source": "quiz",
     "release": true,
@@ -586,6 +625,7 @@ const quizzes = {
   },
   "l34": {
     "quizId": "l34",
+    "id": "l34",
     "title": "3-4. 文字のデジタル表現",
     "source": "quiz",
     "release": true,
@@ -601,6 +641,7 @@ const quizzes = {
   },
   "l35": {
     "quizId": "l35",
+    "id": "l35",
     "title": "3-5. 音のデジタル表現",
     "source": "quiz",
     "release": true,
@@ -616,6 +657,7 @@ const quizzes = {
   },
   "l36": {
     "quizId": "l36",
+    "id": "l36",
     "title": "3-6. 画像のデジタル表現",
     "source": "quiz",
     "release": true,
@@ -631,6 +673,7 @@ const quizzes = {
   },
   "l37": {
     "quizId": "l37",
+    "id": "l37",
     "title": "3-7. 動画のデジタル表現",
     "source": "quiz",
     "release": true,
@@ -646,6 +689,7 @@ const quizzes = {
   },
   "l38": {
     "quizId": "l38",
+    "id": "l38",
     "title": "3-8. データの圧縮",
     "source": "quiz",
     "release": true,
@@ -661,6 +705,7 @@ const quizzes = {
   },
   "l41": {
     "quizId": "l41",
+    "id": "l41",
     "title": "4-1. コンピュータの構成",
     "source": "quiz",
     "release": true,
@@ -676,6 +721,7 @@ const quizzes = {
   },
   "l42": {
     "quizId": "l42",
+    "id": "l42",
     "title": "4-2. 論理回路",
     "source": "quiz",
     "release": true,
@@ -691,6 +737,7 @@ const quizzes = {
   },
   "l51": {
     "quizId": "l51",
+    "id": "l51",
     "title": "5-1. プログラミング",
     "source": "quiz",
     "release": true,
@@ -706,6 +753,7 @@ const quizzes = {
   },
   "l52": {
     "quizId": "l52",
+    "id": "l52",
     "title": "5-2. アルゴリズム",
     "source": "quiz",
     "release": true,
@@ -721,6 +769,7 @@ const quizzes = {
   },
   "l53": {
     "quizId": "l53",
+    "id": "l53",
     "title": "5-3. モデル化とシミュレーション",
     "source": "quiz",
     "release": true,
@@ -736,6 +785,7 @@ const quizzes = {
   },
   "l61": {
     "quizId": "l61",
+    "id": "l61",
     "title": "6-1. 情報通信ネットワークのしくみ",
     "source": "quiz",
     "release": true,
@@ -751,6 +801,7 @@ const quizzes = {
   },
   "l62": {
     "quizId": "l62",
+    "id": "l62",
     "title": "6-2. プロトコル（第１〜３層）",
     "source": "quiz",
     "release": true,
@@ -766,6 +817,7 @@ const quizzes = {
   },
   "l63": {
     "quizId": "l63",
+    "id": "l63",
     "title": "6-3. プロトコル（第４層：アプリケーション層）",
     "source": "quiz",
     "release": true,
@@ -781,6 +833,7 @@ const quizzes = {
   },
   "l64": {
     "quizId": "l64",
+    "id": "l64",
     "title": "6-4. 暗号化のしくみ",
     "source": "quiz",
     "release": true,
@@ -796,6 +849,7 @@ const quizzes = {
   },
   "l65": {
     "quizId": "l65",
+    "id": "l65",
     "title": "6-5. 情報システム",
     "source": "quiz",
     "release": true,
@@ -811,6 +865,7 @@ const quizzes = {
   },
   "l66": {
     "quizId": "l66",
+    "id": "l66",
     "title": "6-6. データベース",
     "source": "quiz",
     "release": true,
@@ -826,6 +881,7 @@ const quizzes = {
   },
   "l71": {
     "quizId": "l71",
+    "id": "l71",
     "title": "7-1. データの収集",
     "source": "quiz",
     "release": true,
@@ -841,6 +897,7 @@ const quizzes = {
   },
   "l72": {
     "quizId": "l72",
+    "id": "l72",
     "title": "7-2. データの活用",
     "source": "quiz",
     "release": true,
@@ -856,6 +913,7 @@ const quizzes = {
   },
   "bin01": {
     "quizId": "bin01",
+    "id": "bin01",
     "title": "【練習問題】2進数と10進数",
     "source": "auto",
     "release": true,
@@ -871,6 +929,7 @@ const quizzes = {
   },
   "hex01": {
     "quizId": "hex01",
+    "id": "hex01",
     "title": "【練習問題】16進数",
     "source": "auto",
     "release": true,
@@ -886,6 +945,7 @@ const quizzes = {
   },
   "realn01": {
     "quizId": "realn01",
+    "id": "realn01",
     "title": "【練習問題】固定小数点数と浮動小数点数",
     "source": "auto",
     "release": true,
@@ -901,6 +961,7 @@ const quizzes = {
   },
   "twoscmp01": {
     "quizId": "twoscmp01",
+    "id": "twoscmp01",
     "title": "【練習問題】補数",
     "source": "auto",
     "release": true,
@@ -916,6 +977,7 @@ const quizzes = {
   },
   "conv01": {
     "quizId": "conv01",
+    "id": "conv01",
     "title": "換算",
     "source": "auto",
     "release": true,
