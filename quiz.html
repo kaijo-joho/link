@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>中間リンク | quizId指定</title>
+  <title>クイズ・確認テスト・練習問題</title>
   <link rel="icon" href="data:,">
   <style>
     :root { --panel:#fff; --bg:#f6f7fb; --text:#111; --muted:#666; --brand:#2d6cdf; }
@@ -72,16 +72,14 @@
       box.append(
         el('div', { className: 'title', textContent: title }),
         el('div', { className: 'meta', innerHTML: `${pill('ID: '+quizId)}${metaCat? ' '+pill(metaCat):''}${metaSrc? ' '+pill(metaSrc):''}` }),
-        el('div', { className: 'meta', textContent: `BASE: ${base.replace(/\?.*$/, '')}` }),
       );
 
       const btns = el('div', { className: 'btns' });
       const open = el('a', { className: 'btn', href: url, textContent: '開く', target: newtab ? '_blank' : '_self', rel: 'noopener' });
-      const copy = el('button', { className: 'btn secondary', textContent: 'リンクをコピー' });
       copy.addEventListener('click', async () => {
         try{ await navigator.clipboard.writeText(url); toast('コピーしました'); } catch { toast('コピーに失敗しました'); }
       });
-      btns.append(open, copy);
+      btns.append(open);
       box.append(btns);
 
       main.append(box);
