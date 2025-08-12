@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>中間リンク | quizId指定</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root { --panel:#fff; --bg:#f6f7fb; --text:#111; --muted:#666; --brand:#2d6cdf; }
+    body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "Yu Gothic UI", "Yu Gothic", "Meiryo", sans-serif; background:var(--bg); color:var(--text); }
+    header { padding:16px 20px; background:var(--brand); color:white; }
+    main { max-width:720px; margin:24px auto; padding:0 16px; }
+    .card { background:var(--panel); border-radius:14px; padding:16px; box-shadow:0 6px 20px rgba(0,0,0,.06); }
+    .title { font-weight:800; font-size:18px; }
+    .meta { color:var(--muted); font-size:12px; margin-top:6px; display:flex; gap:8px; flex-wrap:wrap; }
+    .btns { margin-top:16px; display:flex; gap:8px; flex-wrap:wrap; }
+    .btn { appearance:none; border:0; border-radius:10px; padding:10px 14px; background:var(--brand); color:#fff; font-weight:700; cursor:pointer; text-decoration:none; display:inline-block; }
+    .btn.secondary { background:#e9ecf5; color:#2b2f43; }
+    .warn { background:#fff8e6; color:#8a5a00; padding:10px 12px; border-radius:10px; margin:12px 0; }
+    .error { background:#ffeaea; color:#8a0000; padding:10px 12px; border-radius:10px; margin:12px 0; }
+    pre { background:#f3f5fb; padding:10px; border-radius:10px; overflow:auto; }
+  </style>
+  <!-- quizzes.js は同じフォルダに配置（const quizzes = {...}）※タイトル表示にのみ使用します -->
+  <script src="quizzes.js" defer></script>
+  <script defer>
+  'use strict';
+  (function(){
+    const DEFAULT_BASE = 'https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec';
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const p = new URLSearchParams(location.search);
+      const quizIdRaw = (p.get('quizId') || p.get('id') || '').trim();
+      const quizId = sanitizeId(quizIdRaw);
+      const base = sanitizeBase(p.get('base')) || DEFAULT_BASE;
+      const newtab = (p.get('newtab') || '0') === '1';
+      const auto = (p.get('auto') || '0') === '1';
+
+      if (!quizId) {
+        renderError('必須パラメータ quizId がありません。例: <code>?quizId=py22a</code>');
+        renderHelp();
+        return;
+      }
+
+      const targetUrl = buildTargetUrl(base, quizId);
+
+      // タイトルは quizzes.js にあれば採用、なければ ID を表示
+      let title = quizId;
+      let metaCat = '', metaSrc = '';
+      if (typeof quizzes !== 'undefined') {
+        const q = (quizzes[quizId]) || Object.values(quizzes).find(x => x && x.quizId === quizId);
+        if (q) { title = q.title || quizId; metaCat = q.category || ''; metaSrc = q.source || ''; }
+      }
+
+      renderCard({ title, quizId, base, url: targetUrl, metaCat, metaSrc, newtab });
+
+      if (auto) {
+        renderNotice('自動でクイズに移動します…');
+        setTimeout(() => location.assign(targetUrl), 400);
+      }
+    });
+
+    // ===== helpers =====
+    function sanitizeId(id){ return String(id).match(/[A-Za-z0-9_-]+/) ? String(id) : ''; }
+    function sanitizeBase(url){ if(!url) return ''; try { const u = new URL(url, location.origin); if(!/^https?:$/i.test(u.protocol)) return ''; return u.toString().replace(/\/$/, ''); } catch { return ''; } }
+    function buildTargetUrl(base, quizId){ const u = new URL(base); u.searchParams.set('quizId', quizId); return u.toString(); }
+
+    // ===== renderers =====
+    function renderCard({ title, quizId, base, url, metaCat, metaSrc, newtab }){
+      const main = document.querySelector('main');
+      const box = el('div', { className: 'card' });
+
+      box.append(
+        el('div', { className: 'title', textContent: title }),
+        el('div', { className: 'meta', innerHTML: `${pill('ID: '+quizId)}${metaCat? ' '+pill(metaCat):''}${metaSrc? ' '+pill(metaSrc):''}` }),
+        el('div', { className: 'meta', textContent: `BASE: ${base.replace(/\?.*$/, '')}` }),
+      );
+
+      const btns = el('div', { className: 'btns' });
+      const open = el('a', { className: 'btn', href: url, textContent: '開く', target: newtab ? '_blank' : '_self', rel: 'noopener' });
+      const copy = el('button', { className: 'btn secondary', textContent: 'リンクをコピー' });
+      copy.addEventListener('click', async () => {
+        try{ await navigator.clipboard.writeText(url); toast('コピーしました'); } catch { toast('コピーに失敗しました'); }
+      });
+      btns.append(open, copy);
+      box.append(btns);
+
+      main.append(box);
+    }
+
+    function pill(text){ return `<span style="background:#eef1fb;padding:2px 8px;border-radius:999px;">${escapeHtml(text)}</span>`; }
+    function renderNotice(msg){ insertInfo(msg, 'warn'); }
+    function renderError(msg){ insertInfo(msg, 'error'); }
+    function insertInfo(msg, cls){ const main=document.querySelector('main'); const div=el('div',{className:cls}); div.innerHTML=msg; main.prepend(div); }
+
+    function renderHelp(){
+      const main = document.querySelector('main');
+      const help = el('div', { className:'card' });
+      help.innerHTML = `
+        <div class="title">使い方</div>
+        <div class="warn">必須: <code>?quizId=py22a</code></div>
+        <ul>
+          <li><code>base</code>: GASのベースURLを差し替え（省略時は既定）</li>
+          <li><code>newtab=1</code>: 新しいタブで開く</li>
+          <li><code>auto=1</code>: 自動リダイレクト</li>
+        </ul>
+        <pre>quiz.html?quizId=py22a&newtab=1
+quiz.html?quizId=l31&base=${DEFAULT_BASE}</pre>
+      `;
+      main.append(help);
+    }
+
+    function el(tag, props={}){ const n=document.createElement(tag); Object.assign(n, props); return n; }
+    function toast(msg){ const main=document.querySelector('main'); const d=el('div',{className:'warn',textContent:msg}); main.prepend(d); setTimeout(()=>d.remove(), 1400); }
+    function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c])); }
+  })();
+  </script>
+</head>
+<body>
+  <header>
+    <h1 style="margin:0;font-size:18px;">中間リンク（単一）</h1>
+  </header>
+  <main></main>
+</body>
+</html>
