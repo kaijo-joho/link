@@ -12,7 +12,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「1-1. 四則演算」の確認テストです。",
     "option": ""
   },
   "py12": {
@@ -28,7 +28,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「1-2. 変数と画面出力」の確認テストです。",
     "option": ""
   },
   "py21": {
@@ -44,7 +44,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「2-1. 条件分岐」の確認テストです。",
     "option": ""
   },
   "py22a": {
@@ -60,7 +60,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「2-2. 繰り返し（while文）① A基本問題」の確認テストです。",
     "option": ""
   },
   "py22b": {
@@ -76,7 +76,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「2-2. 繰り返し（while文）① B応用問題」の確認テストです。",
     "option": ""
   },
   "py23a": {
@@ -92,7 +92,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「2-3. 繰り返し（while文）② A基本問題」の確認テストです。",
     "option": ""
   },
   "py23b": {
@@ -108,7 +108,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「2-3. 繰り返し（while文）② B応用問題」の確認テストです。",
     "option": ""
   },
   "py24a": {
@@ -124,7 +124,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「2-4. 繰り返し（for文）① A基本問題」の確認テストです。",
     "option": ""
   },
   "py24b": {
@@ -140,7 +140,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「2-4. 繰り返し（for文）① B応用問題」の確認テストです。",
     "option": ""
   },
   "py25a": {
@@ -156,7 +156,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「2-5. 繰り返し（for文）② A基本問題」の確認テストです。",
     "option": ""
   },
   "py25b": {
@@ -172,7 +172,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「2-5. 繰り返し（for文）② B応用問題」の確認テストです。",
     "option": ""
   },
   "py31a": {
@@ -188,7 +188,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「3-1. リスト（list） A基本問題」の確認テストです。",
     "option": ""
   },
   "py31b": {
@@ -204,7 +204,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「3-1. リスト（list） B応用問題」の確認テストです。",
     "option": ""
   },
   "py32": {
@@ -220,7 +220,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "Python講座",
-    "description": "",
+    "description": "Python講座「3-2. 関数定義（def文）」の確認テストです。",
     "option": ""
   },
   "ipr01": {
@@ -236,7 +236,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "練習問題",
-    "description": "",
+    "description": "「知的財産権と個人情報・プライバシー①」の練習問題です。",
     "option": ""
   },
   "ipr02": {
@@ -252,7 +252,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "練習問題",
-    "description": "",
+    "description": "「知的財産権と個人情報・プライバシー②」の練習問題です。",
     "option": ""
   },
   "ipr03": {
@@ -268,7 +268,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "練習問題",
-    "description": "",
+    "description": "「知的財産権と個人情報・プライバシー③」の練習問題です。",
     "option": ""
   },
   "lc_test": {
@@ -300,7 +300,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "論理回路",
-    "description": "",
+    "description": "「論理回路①」の練習問題です。",
     "option": ""
   },
   "lc02": {
@@ -316,7 +316,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "論理回路",
-    "description": "",
+    "description": "「論理回路②」の練習問題です。",
     "option": ""
   },
   "lc03": {
@@ -332,7 +332,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "論理回路",
-    "description": "",
+    "description": "「論理回路③」の練習問題です。",
     "option": ""
   },
   "lc04": {
@@ -348,7 +348,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "論理回路",
-    "description": "",
+    "description": "「論理回路④」の練習問題です。",
     "option": ""
   },
   "lc05": {
@@ -364,7 +364,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "論理回路",
-    "description": "",
+    "description": "「論理回路⑤」の練習問題です。",
     "option": ""
   },
   "lc06": {
@@ -380,7 +380,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "論理回路",
-    "description": "",
+    "description": "「論理回路⑥」の練習問題です。",
     "option": ""
   },
   "test": {
@@ -412,7 +412,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「1-1. 情報とメディア」の確認問題です。",
     "option": ""
   },
   "l12": {
@@ -428,7 +428,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「1-2. 知的財産権（産業財産権）」の確認問題です。",
     "option": ""
   },
   "l13": {
@@ -444,7 +444,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「1-3. 知的財産権（著作権）」の確認問題です。",
     "option": ""
   },
   "l14": {
@@ -460,7 +460,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「1-4. 個人情報の保護と管理」の確認問題です。",
     "option": ""
   },
   "l15": {
@@ -476,7 +476,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「1-5. 不正アクセス」の確認問題です。",
     "option": ""
   },
   "l16": {
@@ -492,7 +492,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「1-6. 情報セキュリティ」の確認問題です。",
     "option": ""
   },
   "l17": {
@@ -508,7 +508,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「1-7. 問題解決の方法」の確認問題です。",
     "option": ""
   },
   "l18": {
@@ -524,7 +524,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「1-8. 情報技術の進歩」の確認問題です。",
     "option": ""
   },
   "l19": {
@@ -540,7 +540,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「1-9. 情報技術の進歩による新たな問題」の確認問題です。",
     "option": ""
   },
   "l21": {
@@ -556,7 +556,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「2-1. コミュニケーション」の確認問題です。",
     "option": ""
   },
   "l22": {
@@ -572,7 +572,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「2-2. 情報デザイン」の確認問題です。",
     "option": ""
   },
   "l31": {
@@ -588,7 +588,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「3-1. アナログとデジタル」の確認問題です。",
     "option": ""
   },
   "l32": {
@@ -604,7 +604,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「3-2. 2進法と16進法」の確認問題です。",
     "option": ""
   },
   "l33": {
@@ -620,7 +620,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「3-3. 2進法の足し算・引き算」の確認問題です。",
     "option": ""
   },
   "l34": {
@@ -636,7 +636,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「3-4. 文字のデジタル表現」の確認問題です。",
     "option": ""
   },
   "l35": {
@@ -652,7 +652,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「3-5. 音のデジタル表現」の確認問題です。",
     "option": ""
   },
   "l36": {
@@ -668,7 +668,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「3-6. 画像のデジタル表現」の確認問題です。",
     "option": ""
   },
   "l37": {
@@ -684,7 +684,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「3-7. 動画のデジタル表現」の確認問題です。",
     "option": ""
   },
   "l38": {
@@ -700,7 +700,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「3-8. データの圧縮」の確認問題です。",
     "option": ""
   },
   "l41": {
@@ -716,7 +716,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「4-1. コンピュータの構成」の確認問題です。",
     "option": ""
   },
   "l42": {
@@ -732,7 +732,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「4-2. 論理回路」の確認問題です。",
     "option": ""
   },
   "l51": {
@@ -748,7 +748,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「5-1. プログラミング」の確認問題です。",
     "option": ""
   },
   "l52": {
@@ -764,7 +764,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「5-2. アルゴリズム」の確認問題です。",
     "option": ""
   },
   "l53": {
@@ -780,7 +780,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「5-3. モデル化とシミュレーション」の確認問題です。",
     "option": ""
   },
   "l61": {
@@ -796,7 +796,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「6-1. 情報通信ネットワークのしくみ」の確認問題です。",
     "option": ""
   },
   "l62": {
@@ -812,7 +812,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「6-2. プロトコル（第１〜３層）」の確認問題です。",
     "option": ""
   },
   "l63": {
@@ -828,7 +828,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「6-3. プロトコル（第４層：アプリケーション層）」の確認問題です。",
     "option": ""
   },
   "l64": {
@@ -844,7 +844,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「6-4. 暗号化のしくみ」の確認問題です。",
     "option": ""
   },
   "l65": {
@@ -860,7 +860,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「6-5. 情報システム」の確認問題です。",
     "option": ""
   },
   "l66": {
@@ -876,7 +876,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「6-6. データベース」の確認問題です。",
     "option": ""
   },
   "l71": {
@@ -892,7 +892,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「7-1. データの収集」の確認問題です。",
     "option": ""
   },
   "l72": {
@@ -908,13 +908,13 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "確認問題",
-    "description": "",
+    "description": "確認問題「7-2. データの活用」の確認問題です。",
     "option": ""
   },
   "bin01": {
     "quizId": "bin01",
     "id": "bin01",
-    "title": "【練習問題】2進数と10進数",
+    "title": "2進数と10進数",
     "source": "auto",
     "release": true,
     "g1": false,
@@ -924,13 +924,13 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "換算",
-    "description": "",
+    "description": "「2進数と10進数」の練習問題です。",
     "option": "{\"patterns\":[\n  {\"type\":\"bin_dec\",\"count\":2,\"bits\":4},\n  {\"type\":\"dec_bin\",\"count\":2,\"bits\":4},\n  {\"type\":\"bin_dec\",\"count\":2,\"bits\":8},\n  {\"type\":\"dec_bin\",\"count\":2,\"bits\":8}\n]}"
   },
   "hex01": {
     "quizId": "hex01",
     "id": "hex01",
-    "title": "【練習問題】16進数",
+    "title": "16進数",
     "source": "auto",
     "release": true,
     "g1": false,
@@ -940,13 +940,13 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "換算",
-    "description": "",
+    "description": "「16進数」の練習問題です。",
     "option": "{\"patterns\":[\n  {\"type\":\"hex_dec\",\"count\":2},\n  {\"type\":\"dec_hex\",\"count\":2},\n  {\"type\":\"bin_hex\",\"count\":2},\n  {\"type\":\"hex_bin\",\"count\":2}\n]}"
   },
   "realn01": {
     "quizId": "realn01",
     "id": "realn01",
-    "title": "【練習問題】固定小数点数と浮動小数点数",
+    "title": "固定小数点数と浮動小数点数",
     "source": "auto",
     "release": true,
     "g1": false,
@@ -956,13 +956,13 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "換算",
-    "description": "",
+    "description": "「固定小数点数と浮動小数点数」の練習問題です。",
     "option": "{\n  \"patterns\":[\n    {\"type\":\"dec_fixedBin\",\"count\":2,\"totalBits\":8,\"fracBits\":4},\n    {\"type\":\"fixedBin_dec\",\"count\":2,\"totalBits\":8,\"fracBits\":4},\n    {\"type\":\"dec_float\",\"count\":2,\"totalBits\":16,\"expBits\":5},\n    {\"type\":\"float_dec\",\"count\":2,\"totalBits\":16,\"expBits\":5}\n  ]\n}"
   },
   "twoscmp01": {
     "quizId": "twoscmp01",
     "id": "twoscmp01",
-    "title": "【練習問題】補数",
+    "title": "補数",
     "source": "auto",
     "release": true,
     "g1": false,
@@ -972,7 +972,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "category": "換算",
-    "description": "",
+    "description": "「補数」の練習問題です。",
     "option": "{\"patterns\":[\n  {\"type\":\"twos_comp\",\"count\":5, \"bits\": 4},\n  {\"type\":\"twos_comp\",\"count\":5, \"bits\": 8}\n]}"
   },
   "conv01": {
