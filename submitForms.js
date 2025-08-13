@@ -18,7 +18,7 @@ const data = {
     "assignSheet": "assignments",
     "statusSheet": "submission_status",
     "ssUrl": "https://docs.google.com/spreadsheets/d/15rr-J4rpYZt-iceN4SRtBPJ36E-OfFOOSdV5aoIB214",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=picto25"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=picto25&mode=submit"
   },
   "firefly25": {
     "id": "firefly25",
@@ -39,7 +39,7 @@ const data = {
     "assignSheet": "",
     "statusSheet": "",
     "ssUrl": "https://docs.google.com/spreadsheets/d/1K1_AtC8vxITB5i83jBEB0v_luC_AV-1dfTQSzS28xSE/edit?gid=0#gid=0",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=firefly25"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=firefly25&mode=submit"
   },
   "pysmr25": {
     "id": "pysmr25",
@@ -60,7 +60,7 @@ const data = {
     "assignSheet": "",
     "statusSheet": "",
     "ssUrl": "https://docs.google.com/spreadsheets/d/1OtEbjBkKsUy0thpQFXFvJcPPp2sPLK5WDl-P6KH3cYE/edit?gid=0#gid=0",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=pysmr25"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=pysmr25&mode=submit"
   },
   "pysmr25q": {
     "id": "pysmr25q",
@@ -81,7 +81,7 @@ const data = {
     "assignSheet": "pysmr25q",
     "statusSheet": "",
     "ssUrl": "https://docs.google.com/spreadsheets/d/1OtEbjBkKsUy0thpQFXFvJcPPp2sPLK5WDl-P6KH3cYE/edit?gid=0#gid=0",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=pysmr25q"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=pysmr25q&mode=submit"
   },
   "pysmr25f": {
     "id": "pysmr25f",
@@ -102,7 +102,7 @@ const data = {
     "assignSheet": "pysmr25f",
     "statusSheet": "",
     "ssUrl": "https://docs.google.com/spreadsheets/d/1OtEbjBkKsUy0thpQFXFvJcPPp2sPLK5WDl-P6KH3cYE/edit?gid=0#gid=0",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=pysmr25f"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=pysmr25f&mode=submit"
   },
   "pywtr25": {
     "id": "pywtr25",
@@ -123,7 +123,7 @@ const data = {
     "assignSheet": "",
     "statusSheet": "",
     "ssUrl": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=pywtr25"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=pywtr25&mode=submit"
   },
   "pywtr25q": {
     "id": "pywtr25q",
@@ -144,7 +144,7 @@ const data = {
     "assignSheet": "",
     "statusSheet": "",
     "ssUrl": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=pywtr25q"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=pywtr25q&mode=submit"
   },
   "pywtr25f": {
     "id": "pywtr25f",
@@ -165,7 +165,7 @@ const data = {
     "assignSheet": "",
     "statusSheet": "",
     "ssUrl": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=pywtr25f"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=pywtr25f&mode=submit"
   },
   "yuruchara25": {
     "id": "yuruchara25",
@@ -186,7 +186,7 @@ const data = {
     "assignSheet": "assignments",
     "statusSheet": "submission_status",
     "ssUrl": "https://docs.google.com/spreadsheets/d/1Y5pix20ApDORGaIi_9L4eVpUCg3WYdWCBz8HUIeulE4/edit?gid=0#gid=0",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=yuruchara25"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=yuruchara25&mode=submit"
   },
   "test": {
     "id": "test",
@@ -207,104 +207,56 @@ const data = {
     "assignSheet": "assignments",
     "statusSheet": "submission_status",
     "ssUrl": "https://docs.google.com/spreadsheets/d/1VM7fHFuWjJUb5S24v4QROT3IuQYlIPqbsG-QLWTu1n8/edit?gid=0#gid=0",
-    "url": "",
-    "variant": [
+    "variants": [
       {
         "variant": "sample1-2",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-2"
-      },
-      {
-        "variant": "sample1-2",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-2"
+        "param": "file=sample1-2"
       },
       {
         "variant": "sample1-3_1",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-3_1"
-      },
-      {
-        "variant": "sample1-3_1",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-3_1"
+        "param": "file=sample1-3_1"
       },
       {
         "variant": "sample1-3_2",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-3_2"
-      },
-      {
-        "variant": "sample1-3_2",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-3_2"
+        "param": "file=sample1-3_2"
       },
       {
         "variant": "sample1-4",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-4"
-      },
-      {
-        "variant": "sample1-4",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-4"
+        "param": "file=sample1-4"
       },
       {
         "variant": "sample1-5_1",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-5_1"
-      },
-      {
-        "variant": "sample1-5_1",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-5_1"
+        "param": "file=sample1-5_1"
       },
       {
         "variant": "sample1-5_2",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-5_2"
-      },
-      {
-        "variant": "sample1-5_2",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-5_2"
+        "param": "file=sample1-5_2"
       },
       {
         "variant": "sample1-6",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-6"
-      },
-      {
-        "variant": "sample1-6",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-6"
+        "param": "file=sample1-6"
       },
       {
         "variant": "sample1-7",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-7"
-      },
-      {
-        "variant": "sample1-7",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample1-7"
+        "param": "file=sample1-7"
       },
       {
         "variant": "sample2-2_1",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample2-2_1"
-      },
-      {
-        "variant": "sample2-2_1",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample2-2_1"
+        "param": "file=sample2-2_1"
       },
       {
         "variant": "sample2-2_2",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample2-2_2"
-      },
-      {
-        "variant": "sample2-2_2",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample2-2_2"
+        "param": "file=sample2-2_2"
       },
       {
         "variant": "sample2-3",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample2-3"
-      },
-      {
-        "variant": "sample2-3",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample2-3"
+        "param": "file=sample2-3"
       },
       {
         "variant": "sample2-4",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample2-4"
-      },
-      {
-        "variant": "sample2-4",
-        "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?mode=submit&pid=test&file=sample2-4"
+        "param": "file=sample2-4"
       }
-    ]
+    ],
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=test&mode=submit"
   }
 }
