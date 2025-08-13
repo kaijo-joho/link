@@ -1,4 +1,4 @@
-const quizzes = {
+const data = {
   "py11": {
     "id": "py11",
     "quizId": "py11",
