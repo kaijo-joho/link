@@ -219,54 +219,30 @@ const data = {
     "ssUrl": "https://docs.google.com/spreadsheets/d/1VM7fHFuWjJUb5S24v4QROT3IuQYlIPqbsG-QLWTu1n8/edit?gid=0#gid=0",
     "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=test&mode=submit",
     "variants": [
-      {
-        "variant": "sample1-2",
-        "param": "file=sample1-2"
-      },
-      {
-        "variant": "sample1-3_1",
-        "param": "file=sample1-3_1"
-      },
-      {
-        "variant": "sample1-3_2",
-        "param": "file=sample1-3_2"
-      },
-      {
-        "variant": "sample1-4",
-        "param": "file=sample1-4"
-      },
-      {
-        "variant": "sample1-5_1",
-        "param": "file=sample1-5_1"
-      },
-      {
-        "variant": "sample1-5_2",
-        "param": "file=sample1-5_2"
-      },
-      {
-        "variant": "sample1-6",
-        "param": "file=sample1-6"
-      },
-      {
-        "variant": "sample1-7",
-        "param": "file=sample1-7"
-      },
-      {
-        "variant": "sample2-2_1",
-        "param": "file=sample2-2_1"
-      },
-      {
-        "variant": "sample2-2_2",
-        "param": "file=sample2-2_2"
-      },
-      {
-        "variant": "sample2-3",
-        "param": "file=sample2-3"
-      },
-      {
-        "variant": "sample2-4",
-        "param": "file=sample2-4"
-      }
+      "sample1-2",
+      "sample1-2",
+      "sample1-3_1",
+      "sample1-3_1",
+      "sample1-3_2",
+      "sample1-3_2",
+      "sample1-4",
+      "sample1-4",
+      "sample1-5_1",
+      "sample1-5_1",
+      "sample1-5_2",
+      "sample1-5_2",
+      "sample1-6",
+      "sample1-6",
+      "sample1-7",
+      "sample1-7",
+      "sample2-2_1",
+      "sample2-2_1",
+      "sample2-2_2",
+      "sample2-2_2",
+      "sample2-3",
+      "sample2-3",
+      "sample2-4",
+      "sample2-4"
     ]
   }
 }
