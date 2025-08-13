@@ -207,6 +207,7 @@ const data = {
     "assignSheet": "assignments",
     "statusSheet": "submission_status",
     "ssUrl": "https://docs.google.com/spreadsheets/d/1VM7fHFuWjJUb5S24v4QROT3IuQYlIPqbsG-QLWTu1n8/edit?gid=0#gid=0",
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=test&mode=submit",
     "variants": [
       {
         "variant": "sample1-2",
@@ -256,7 +257,6 @@ const data = {
         "variant": "sample2-4",
         "param": "file=sample2-4"
       }
-    ],
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbxBumMkcK31LENmqOX15neY8ZF09nkwD7lIUUzzdhbxtbEt_TYFr_QS32Zs_3Zb6Ba45g/exec?pid=test&mode=submit"
+    ]
   }
 }
