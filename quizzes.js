@@ -1,7 +1,6 @@
 const quizzes = {
   "py11": {
     "id": "py11",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py11",
     "title": "1-1. 四則演算",
     "description": "Python講座「1-1. 四則演算」の確認テストです。",
@@ -15,11 +14,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py11"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py11",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py12": {
     "id": "py12",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py12",
     "title": "1-2. 変数と画面出力",
     "description": "Python講座「1-2. 変数と画面出力」の確認テストです。",
@@ -33,11 +32,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py12"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py12",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py21": {
     "id": "py21",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py21",
     "title": "2-1. 条件分岐",
     "description": "Python講座「2-1. 条件分岐」の確認テストです。",
@@ -51,11 +50,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py21"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py21",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py22a": {
     "id": "py22a",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py22a",
     "title": "2-2. 繰り返し（while文）① A基本問題",
     "description": "Python講座「2-2. 繰り返し（while文）① A基本問題」の確認テストです。",
@@ -69,11 +68,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py22a"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py22a",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py22b": {
     "id": "py22b",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py22b",
     "title": "2-2. 繰り返し（while文）① B応用問題",
     "description": "Python講座「2-2. 繰り返し（while文）① B応用問題」の確認テストです。",
@@ -87,11 +86,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py22b"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py22b",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py23a": {
     "id": "py23a",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py23a",
     "title": "2-3. 繰り返し（while文）② A基本問題",
     "description": "Python講座「2-3. 繰り返し（while文）② A基本問題」の確認テストです。",
@@ -105,11 +104,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py23a"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py23a",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py23b": {
     "id": "py23b",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py23b",
     "title": "2-3. 繰り返し（while文）② B応用問題",
     "description": "Python講座「2-3. 繰り返し（while文）② B応用問題」の確認テストです。",
@@ -123,11 +122,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py23b"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py23b",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py24a": {
     "id": "py24a",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py24a",
     "title": "2-4. 繰り返し（for文）① A基本問題",
     "description": "Python講座「2-4. 繰り返し（for文）① A基本問題」の確認テストです。",
@@ -141,11 +140,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py24a"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py24a",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py24b": {
     "id": "py24b",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py24b",
     "title": "2-4. 繰り返し（for文）① B応用問題",
     "description": "Python講座「2-4. 繰り返し（for文）① B応用問題」の確認テストです。",
@@ -159,11 +158,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py24b"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py24b",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py25a": {
     "id": "py25a",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py25a",
     "title": "2-5. 繰り返し（for文）② A基本問題",
     "description": "Python講座「2-5. 繰り返し（for文）② A基本問題」の確認テストです。",
@@ -177,11 +176,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py25a"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py25a",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py25b": {
     "id": "py25b",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py25b",
     "title": "2-5. 繰り返し（for文）② B応用問題",
     "description": "Python講座「2-5. 繰り返し（for文）② B応用問題」の確認テストです。",
@@ -195,11 +194,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py25b"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py25b",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py31a": {
     "id": "py31a",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py31a",
     "title": "3-1. リスト（list） A基本問題",
     "description": "Python講座「3-1. リスト（list） A基本問題」の確認テストです。",
@@ -213,11 +212,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py31a"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py31a",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py31b": {
     "id": "py31b",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py31b",
     "title": "3-1. リスト（list） B応用問題",
     "description": "Python講座「3-1. リスト（list） B応用問題」の確認テストです。",
@@ -231,11 +230,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py31b"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=py31b",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "py32": {
     "id": "py32",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "py32",
     "title": "3-2. 関数定義（def文）",
     "description": "Python講座「3-2. 関数定義（def文）」の確認テストです。",
@@ -249,11 +248,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": ""
+    "url": "",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "ipr01": {
     "id": "ipr01",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "ipr01",
     "title": "知的財産権と個人情報・プライバシー①",
     "description": "「知的財産権と個人情報・プライバシー①」の練習問題です。",
@@ -267,11 +266,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=ipr01"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=ipr01",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "ipr02": {
     "id": "ipr02",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "ipr02",
     "title": "知的財産権と個人情報・プライバシー②",
     "description": "「知的財産権と個人情報・プライバシー②」の練習問題です。",
@@ -285,11 +284,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=ipr02"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=ipr02",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "ipr03": {
     "id": "ipr03",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "ipr03",
     "title": "知的財産権と個人情報・プライバシー③",
     "description": "「知的財産権と個人情報・プライバシー③」の練習問題です。",
@@ -303,11 +302,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=ipr03"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=ipr03",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "lc_test": {
     "id": "lc_test",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "lc_test",
     "title": "論理回路 テスト",
     "description": "",
@@ -321,11 +320,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc_test"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc_test",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "lc01": {
     "id": "lc01",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "lc01",
     "title": "論理回路①",
     "description": "「論理回路①」の練習問題です。",
@@ -339,11 +338,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc01"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc01",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "lc02": {
     "id": "lc02",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "lc02",
     "title": "論理回路②",
     "description": "「論理回路②」の練習問題です。",
@@ -357,11 +356,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc02"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc02",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "lc03": {
     "id": "lc03",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "lc03",
     "title": "論理回路③",
     "description": "「論理回路③」の練習問題です。",
@@ -375,11 +374,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc03"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc03",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "lc04": {
     "id": "lc04",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "lc04",
     "title": "論理回路④",
     "description": "「論理回路④」の練習問題です。",
@@ -393,11 +392,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc04"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc04",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "lc05": {
     "id": "lc05",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "lc05",
     "title": "論理回路⑤",
     "description": "「論理回路⑤」の練習問題です。",
@@ -411,11 +410,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc05"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc05",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "lc06": {
     "id": "lc06",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "lc06",
     "title": "論理回路⑥",
     "description": "「論理回路⑥」の練習問題です。",
@@ -429,11 +428,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc06"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=lc06",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "test": {
     "id": "test",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "test",
     "title": "確認テスト",
     "description": "",
@@ -447,11 +446,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=test"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=test",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l11": {
     "id": "l11",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l11",
     "title": "1-1. 情報とメディア",
     "description": "確認問題「1-1. 情報とメディア」の確認問題です。",
@@ -465,11 +464,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l11"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l11",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l12": {
     "id": "l12",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l12",
     "title": "1-2. 知的財産権（産業財産権）",
     "description": "確認問題「1-2. 知的財産権（産業財産権）」の確認問題です。",
@@ -483,11 +482,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l12"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l12",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l13": {
     "id": "l13",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l13",
     "title": "1-3. 知的財産権（著作権）",
     "description": "確認問題「1-3. 知的財産権（著作権）」の確認問題です。",
@@ -501,11 +500,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l13"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l13",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l14": {
     "id": "l14",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l14",
     "title": "1-4. 個人情報の保護と管理",
     "description": "確認問題「1-4. 個人情報の保護と管理」の確認問題です。",
@@ -519,11 +518,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l14"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l14",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l15": {
     "id": "l15",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l15",
     "title": "1-5. 不正アクセス",
     "description": "確認問題「1-5. 不正アクセス」の確認問題です。",
@@ -537,11 +536,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l15"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l15",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l16": {
     "id": "l16",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l16",
     "title": "1-6. 情報セキュリティ",
     "description": "確認問題「1-6. 情報セキュリティ」の確認問題です。",
@@ -555,11 +554,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l16"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l16",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l17": {
     "id": "l17",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l17",
     "title": "1-7. 問題解決の方法",
     "description": "確認問題「1-7. 問題解決の方法」の確認問題です。",
@@ -573,11 +572,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l17"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l17",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l18": {
     "id": "l18",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l18",
     "title": "1-8. 情報技術の進歩",
     "description": "確認問題「1-8. 情報技術の進歩」の確認問題です。",
@@ -591,11 +590,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l18"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l18",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l19": {
     "id": "l19",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l19",
     "title": "1-9. 情報技術の進歩による新たな問題",
     "description": "確認問題「1-9. 情報技術の進歩による新たな問題」の確認問題です。",
@@ -609,11 +608,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l19"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l19",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l21": {
     "id": "l21",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l21",
     "title": "2-1. コミュニケーション",
     "description": "確認問題「2-1. コミュニケーション」の確認問題です。",
@@ -627,11 +626,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l21"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l21",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l22": {
     "id": "l22",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l22",
     "title": "2-2. 情報デザイン",
     "description": "確認問題「2-2. 情報デザイン」の確認問題です。",
@@ -645,11 +644,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l22"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l22",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l31": {
     "id": "l31",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l31",
     "title": "3-1. アナログとデジタル",
     "description": "確認問題「3-1. アナログとデジタル」の確認問題です。",
@@ -663,11 +662,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l31"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l31",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l32": {
     "id": "l32",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l32",
     "title": "3-2. 2進法と16進法",
     "description": "確認問題「3-2. 2進法と16進法」の確認問題です。",
@@ -681,11 +680,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l32"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l32",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l33": {
     "id": "l33",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l33",
     "title": "3-3. 2進法の足し算・引き算",
     "description": "確認問題「3-3. 2進法の足し算・引き算」の確認問題です。",
@@ -699,11 +698,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l33"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l33",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l34": {
     "id": "l34",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l34",
     "title": "3-4. 文字のデジタル表現",
     "description": "確認問題「3-4. 文字のデジタル表現」の確認問題です。",
@@ -717,11 +716,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l34"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l34",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l35": {
     "id": "l35",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l35",
     "title": "3-5. 音のデジタル表現",
     "description": "確認問題「3-5. 音のデジタル表現」の確認問題です。",
@@ -735,11 +734,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l35"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l35",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l36": {
     "id": "l36",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l36",
     "title": "3-6. 画像のデジタル表現",
     "description": "確認問題「3-6. 画像のデジタル表現」の確認問題です。",
@@ -753,11 +752,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l36"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l36",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l37": {
     "id": "l37",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l37",
     "title": "3-7. 動画のデジタル表現",
     "description": "確認問題「3-7. 動画のデジタル表現」の確認問題です。",
@@ -771,11 +770,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l37"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l37",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l38": {
     "id": "l38",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l38",
     "title": "3-8. データの圧縮",
     "description": "確認問題「3-8. データの圧縮」の確認問題です。",
@@ -789,11 +788,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l38"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l38",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l41": {
     "id": "l41",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l41",
     "title": "4-1. コンピュータの構成",
     "description": "確認問題「4-1. コンピュータの構成」の確認問題です。",
@@ -807,11 +806,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l41"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l41",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l42": {
     "id": "l42",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l42",
     "title": "4-2. 論理回路",
     "description": "確認問題「4-2. 論理回路」の確認問題です。",
@@ -825,11 +824,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l42"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l42",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l51": {
     "id": "l51",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l51",
     "title": "5-1. プログラミング",
     "description": "確認問題「5-1. プログラミング」の確認問題です。",
@@ -843,11 +842,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l51"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l51",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l52": {
     "id": "l52",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l52",
     "title": "5-2. アルゴリズム",
     "description": "確認問題「5-2. アルゴリズム」の確認問題です。",
@@ -861,11 +860,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l52"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l52",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l53": {
     "id": "l53",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l53",
     "title": "5-3. モデル化とシミュレーション",
     "description": "確認問題「5-3. モデル化とシミュレーション」の確認問題です。",
@@ -879,11 +878,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l53"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l53",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l61": {
     "id": "l61",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l61",
     "title": "6-1. 情報通信ネットワークのしくみ",
     "description": "確認問題「6-1. 情報通信ネットワークのしくみ」の確認問題です。",
@@ -897,11 +896,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l61"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l61",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l62": {
     "id": "l62",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l62",
     "title": "6-2. プロトコル（第１〜３層）",
     "description": "確認問題「6-2. プロトコル（第１〜３層）」の確認問題です。",
@@ -915,11 +914,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l62"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l62",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l63": {
     "id": "l63",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l63",
     "title": "6-3. プロトコル（第４層：アプリケーション層）",
     "description": "確認問題「6-3. プロトコル（第４層：アプリケーション層）」の確認問題です。",
@@ -933,11 +932,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l63"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l63",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l64": {
     "id": "l64",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l64",
     "title": "6-4. 暗号化のしくみ",
     "description": "確認問題「6-4. 暗号化のしくみ」の確認問題です。",
@@ -951,11 +950,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l64"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l64",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l65": {
     "id": "l65",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l65",
     "title": "6-5. 情報システム",
     "description": "確認問題「6-5. 情報システム」の確認問題です。",
@@ -969,11 +968,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l65"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l65",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l66": {
     "id": "l66",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l66",
     "title": "6-6. データベース",
     "description": "確認問題「6-6. データベース」の確認問題です。",
@@ -987,11 +986,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l66"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l66",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l71": {
     "id": "l71",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l71",
     "title": "7-1. データの収集",
     "description": "確認問題「7-1. データの収集」の確認問題です。",
@@ -1005,11 +1004,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l71"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l71",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "l72": {
     "id": "l72",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "l72",
     "title": "7-2. データの活用",
     "description": "確認問題「7-2. データの活用」の確認問題です。",
@@ -1023,11 +1022,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l72"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=l72",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "bin01": {
     "id": "bin01",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "bin01",
     "title": "2進数と10進数",
     "description": "「2進数と10進数」の練習問題です。",
@@ -1041,11 +1040,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "{\"patterns\":[\n  {\"type\":\"bin_dec\",\"count\":2,\"bits\":4},\n  {\"type\":\"dec_bin\",\"count\":2,\"bits\":4},\n  {\"type\":\"bin_dec\",\"count\":2,\"bits\":8},\n  {\"type\":\"dec_bin\",\"count\":2,\"bits\":8}\n]}",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=bin01"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=bin01",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "hex01": {
     "id": "hex01",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "hex01",
     "title": "16進数",
     "description": "「16進数」の練習問題です。",
@@ -1059,11 +1058,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "{\"patterns\":[\n  {\"type\":\"hex_dec\",\"count\":2},\n  {\"type\":\"dec_hex\",\"count\":2},\n  {\"type\":\"bin_hex\",\"count\":2},\n  {\"type\":\"hex_bin\",\"count\":2}\n]}",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=hex01"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=hex01",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "realn01": {
     "id": "realn01",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "realn01",
     "title": "固定小数点数と浮動小数点数",
     "description": "「固定小数点数と浮動小数点数」の練習問題です。",
@@ -1077,11 +1076,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "{\n  \"patterns\":[\n    {\"type\":\"dec_fixedBin\",\"count\":2,\"totalBits\":8,\"fracBits\":4},\n    {\"type\":\"fixedBin_dec\",\"count\":2,\"totalBits\":8,\"fracBits\":4},\n    {\"type\":\"dec_float\",\"count\":2,\"totalBits\":16,\"expBits\":5},\n    {\"type\":\"float_dec\",\"count\":2,\"totalBits\":16,\"expBits\":5}\n  ]\n}",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=realn01"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=realn01",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "twoscmp01": {
     "id": "twoscmp01",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "twoscmp01",
     "title": "補数",
     "description": "「補数」の練習問題です。",
@@ -1095,11 +1094,11 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "{\"patterns\":[\n  {\"type\":\"twos_comp\",\"count\":5, \"bits\": 4},\n  {\"type\":\"twos_comp\",\"count\":5, \"bits\": 8}\n]}",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=twoscmp01"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=twoscmp01",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   },
   "conv01": {
     "id": "conv01",
-    "baseUrl": "https://script.google.com/a/gfe.kaijo.ed.jp/macros/s/AKfycbwluHDpZ5cx9fn68HcD-5oLbAljWMkuvKDRfn7pLH4/dev",
     "quizId": "conv01",
     "title": "換算",
     "description": "",
@@ -1113,6 +1112,7 @@ const quizzes = {
     "g5": true,
     "g6": true,
     "option": "{\n  \"patterns\":[\n    {\"type\":\"bin_dec\",\"count\":4,\"bits\":8},\n    {\"type\":\"dec_hex\",\"count\":3,\"max\":255},\n    {\"type\":\"twos_comp\",\"count\":2,\"bits\":8},\n    {\"type\":\"dec_fixedBin\",\"count\":1},\n    {\"type\":\"dec_float\",\"count\":5,\"totalBits\":16,\"expBits\":4},\n    {\"type\":\"float_dec\",\"count\":5,\"totalBits\":16,\"expBits\":4}\n  ]\n}",
-    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=conv01"
+    "url": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec?quizId=conv01",
+    "baseUrl": "https://script.google.com/a/macros/gfe.kaijo.ed.jp/s/AKfycbwdaKYb66pN0Oo6VVgTjhTRw22jDvPl9M8WxlPzXPrsU99R5WV2l0RbXB3-bKCLLeHG/exec"
   }
 }
